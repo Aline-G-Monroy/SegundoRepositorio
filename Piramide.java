@@ -1,5 +1,5 @@
 public class Piramide {
-    public static void main(String[] args) {
+    public void correr() {
         int filas = 9;
         for (int i = 0; i < filas; i++) {
             for (int j = 0; j < filas - i - 1; j++) {
