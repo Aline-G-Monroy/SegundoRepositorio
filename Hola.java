@@ -5,6 +5,8 @@ public class Hola{
 		p1.correr();
 		System.out.println("Help");
 		piramide(11);
+		Raul p2 = new Raul();
+		p2.correRaul();
 	}
 
 	public static void piramide(int tamano){
