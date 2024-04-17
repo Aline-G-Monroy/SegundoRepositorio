@@ -7,6 +7,8 @@ public class Hola{
 		piramide(11);
 		Raul p2 = new Raul();
 		p2.correRaul();
+		PiramideHugo p3 = new PiramideHugo();
+		p3.correr();
 	}
 
 	public static void piramide(int tamano){
